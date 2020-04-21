@@ -27,6 +27,9 @@ module.exports = {
         title: 'Frontend',
         path: '/frontend/',
         collapsable: false,
+        children: [
+          '/frontend/tools'
+        ]
       },
       {
         title: 'Backend',
